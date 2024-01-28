@@ -1,0 +1,2 @@
+# arumination
+My Thoughts
