@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Note Markdown Test!"
+date:   2024-01-29 -0500
+categories: jekyll update
+---
+
+# NeuroScouting 1/26 class
+Wes and Brian
+***
+
+**Started with Baseball**
+- Pitcher/batter battle
+  - pitches increased pitch speed. Speed-accuracy tradeoff for batter
+**Physiology**
+* DEVICE USES ***==PPG==*** - uses light into layers of tissue
+  * Records heart rate, respiration, HRV, SPO2
+* users can view the physiological signal on the front-end - **closed loop**
+**Physiology + Stress**
+* Mind and body are interrelated - big insight
+* ANS (Autonomic Nervous System) - a branch of the peripheral nervous system that regulates all the physiological processes of the organs
+  * Sympathetic “Gas pedal”, “fight or fight” - mobilizing energy
+  * Parasympathetic - resting - “energy conservation + restoration”
+  * ^^ we are balanced between these two systems (somewhere on the spectrum)
+  * “Arousal” is related to activity of the Sympathetic Nervous system 
+* Best performance occurs at an optimal stress level
+***
+* **Homeostasis**
+  > Achieving homeostasis doesn’t explain everything
+  * Stability through constancy
+* **Allostatic Regulation** —> survival and reproduction
+  * Reallocate resources to maintain stability of an organism *dynamically*
+  * Stability through change
+***The brain’s fundamental role***
+* central autonomic network
+  * conductor of autonomic regulation
+  * *regulates physiology to anticipate goals*
+* Monitors body and outside world
+* Heart Rate Variability (HRV) is an indication of how well your brain’s feedback is modifying your heart rate —> how your brain exerts parasympathetic control via Vagus Nerve
+  * Low HRV is actually not the goal -> linked to cardio disease
+**Double-edged sword of CNS-ANS control**
+* allostatic load -> allostatic overload
+  * brain predicts well  
+    * if you live in constant stress, you maintain a constant arousal 
+* therapeutic approaches — flexibility of response
+**Role of Music**
+* Music has the power to activate circuitry between brain and body
+> Being in the zone is harmony between mind, body and environment
+* Music can induce states
+* respiration rate changes which can change HRV
+* ==LIVE MUSIC RESEARCH==
+  * Bernardi et al -> “Increase in synchronization of autonomic rhythms between individuals when listening to music”
+  * Ardizzi et al “audience spontaneous entrainment during the collective enjoyment of live performances”
+  * Czepiel et al. “Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts”
+* ***
+## NeuroScouting’s Next Program, PAAS
+1. MBI Production (expert)  -> BioMobile App (user)
+2. Physiological Data returns to expert
+3. Alter the intervention based on data
+
