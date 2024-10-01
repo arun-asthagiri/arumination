@@ -5,7 +5,7 @@ date: 2024-10-1
 categories: Reflections
 ---
 # Implications of internal and external sources of reward
-## Bridging Human and AI Learning through Reinforcement
+## Conceptualizing Human and AI Learning through Reinforcement
 
 Reinforcement learning generalizes any machine learning model that is trained with an objective function, which includes virtually all recent and past applications. RL specializes in handling a  reward signal that changes as an agent interacts with an environment but this can be trivialized to a constant signal and applied to any prediction problem where the loss is a fixed function of the model's output and the ground truth. 
 
@@ -15,4 +15,24 @@ The reward system in the human brain draws mathematical equivalence to RL algori
 
 Reinforcement learning also provides a theoretical framework for how we learn more abstractly through statistical associations. The finding that the brain minimizes a prediction-error as it learns is consistent with Friston's "free energy principle", which states that in order to optimally interact with its environment, the brain makes predictions using a learned prior akin to Bayesian inference models. Indeed, statistical learning has become a powerful lens through which to view the human acquisition of even more abstract forms of meaning like language and music. And similarly, defying expectations, large language models like GPT have shown that a statistical framework of predicting the next word in a string of text is enough to develop an emergent understanding of human language and even sentience and emotion...
 
-The extent to which Chat GPT 
+## Sources of Pleasure for Humans and Machines
+
+* what drives learning in machines
+* what drives learning in humans
+* how are we able to set our own goals?
+* what motivates us? 
+	* evolutionarily 
+	* within the lifetime
+	* ethically/socially
+	* intrinsic purpose??? 
+	* Religion + Rules
+## Is Chat GPT already Alive?
+
+* what is being alive
+* does chat gpt reproduce human intelligence or have genuine intelligence
+	* if it looks like intelligence does it imply intelligence
+	* is intelligence enough to be alive?
+	* do we need physical form
+	* mind - body - spirit Descartes
+
+## What is the future of emergent sentience in AI? 
