@@ -5,4 +5,5 @@
 layout: home
 ---
 
-# Test
+# Hello
+Welcome to my test blog
