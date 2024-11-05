@@ -18,4 +18,4 @@ However, it is important to recenter on the question of why music. Lauren Fink p
 
 
 
-![livelab](/docs/_posts/Pics_11_05/LiveLab.png)
+![livelab](/docs/assets/Pics_11_05/LiveLab.png)
