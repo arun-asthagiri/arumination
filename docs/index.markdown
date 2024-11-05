@@ -5,5 +5,5 @@
 layout: home
 ---
 
-# Hello
-Welcome to my test blog
+# Welcome
+This is where I write my thoughts uncensored and lightly edited. Partially in fulfillment of INAM 7000, mostly in fulfillment of self. 
