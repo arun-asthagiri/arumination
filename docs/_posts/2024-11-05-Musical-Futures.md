@@ -14,9 +14,9 @@ Research into music and neuroscience through a social psychology lens asks the q
 
 However, it is important to recenter on the question of why music. Lauren Fink posed a question during this conference: imagine we had all these dynamics of live performance mapped out and explained...what then? 
 
-One answer is utility. We can use the power of live music to drive cooperation, creativity, emotional regulation and more. While this is slightly different than using music for therapy, there are some similarities; we try to impact another aspect of a person's life by using music as a medium. To do this, we leverage the processes that social musicking uniquely engages including predictive processing, pleasure and reward, emotional processing, motor systems and physiological regulation. By coordinating these processes through directed musical experiences, we can alter the way humans interact with each other to achieve productive and healthy results. One recent example of this 
+One answer is utility. We can use the power of live music to drive cooperation, creativity, emotional regulation and more. While this is slightly different than using music for therapy, there are some similarities; we try to impact another aspect of a person's life by using music as a medium. To do this, we leverage the processes that social musicking uniquely engages including predictive processing, pleasure and reward, emotional processing, motor systems and physiological regulation. By coordinating these processes through directed musical experiences, we can alter the way humans interact with each other to achieve productive and healthy results.
 
-Still, there is something un
+Still, it feels disingenuous and unflatteringly capitalistic to use music as a means to a greater end. To really design 
 
 
 

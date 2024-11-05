@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9cc7f5dcba7bf0c",
+        "id": "769a530f688fbbc4",
         "type": "tabs",
         "children": [
           {
-            "id": "62edaa9eef3326b7",
+            "id": "b1e3a3fae35a21c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,14 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62edaa9eef3326b7",
+  "active": "b1e3a3fae35a21c1",
   "lastOpenFiles": [
-    "Live Physio Music Agent.jpg",
-    "Pics_11_05/LiveLab.md",
+    "2024-01-28-welcome-to-jekyll.md",
     "2024-11-05-Musical-Futures.md",
+    "2024-10-01-Why-AI-isn't-alive-(yet).md",
+    "Live Physio Music Agent.jpg",
+    "Untitled.canvas",
+    "Pics_11_05/LiveLab.md",
     "Pics_11_05/NeuroMusic.png",
     "Pics_11_05/NeuroMusic.png.heic",
-    "2024-10-01-Why-AI-isn't-alive-(yet).md",
     "Pics_11_05/Tree.heic",
     "Pics_11_05/NeuroMusic.heic",
     "Pics_11_05/LiveLab.png",
@@ -182,8 +184,6 @@
     "LiveLab.png",
     "NeuroMusic.heic",
     "2024-10-01-Why-AI-isn't-alive-(yet) copy.md",
-    "IMG_7277 copy.png",
-    "2024-01-28-welcome-to-jekyll.md",
-    "Untitled.canvas"
+    "IMG_7277 copy.png"
   ]
 }
