@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Futures
+title: Musical Futures
 date: 2024-11-05
 categories: Reflections
 ---
@@ -12,10 +12,13 @@ Music provides a critical lens to examine these dynamics as they arise in large 
 
 Research into music and neuroscience through a social psychology lens asks the questions: How does music bring us together? Can we unpack the mechanisms by which social interactions unfold in live performances: audience-audience, performer-audience, audience-performer, performer-performer? Does music-driven synchrony transfer to interpersonal cooperation in other areas?  These key questions are fascinating and may make the magic of live performance more tangible for broader populations and solidify its importance for society. And, to investigate them, scientists are using cutting-edge technology and data-mining techniques to extract meaningful information from these complex dynamics and (often noisy) neural responses. 
 
-However, it is important to recenter on the question of why music. Lauren Fink posed a question during this conference: imagine we had all these dynamics of live performance mapped out and explained...what then?
+However, it is important to recenter on the question of why music. Lauren Fink posed a question during this conference: imagine we had all these dynamics of live performance mapped out and explained...what then? 
+
+One answer is utility. We can use the power of live music to drive cooperation, creativity, emotional regulation and more. While this is slightly different than using music for therapy, there are some similarities; we try to impact another aspect of a person's life by using music as a medium. To do this, we leverage the processes that social musicking uniquely engages including predictive processing, pleasure and reward, emotional processing, motor systems and physiological regulation. By coordinating these processes through directed musical experiences, we can alter the way humans interact with each other to achieve productive and healthy results. One recent example of this 
+
+Still, there is something un
 
 
 
 
-
-![livelab](/docs/assets/Pics_11_05/LiveLab.png)
+![livelab](/images/Pics_11_05/LiveLab.png)

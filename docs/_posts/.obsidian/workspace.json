@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-05-Music-Futures.md",
+                "file": "2024-11-05-Musical-Futures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05-Music-Futures"
+              "title": "2024-11-05-Musical-Futures"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-11-05-Music-Futures.md",
+                "file": "2024-11-05-Musical-Futures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-05-Music-Futures"
+              "title": "Backlinks for 2024-11-05-Musical-Futures"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-11-05-Music-Futures.md",
+                "file": "2024-11-05-Musical-Futures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-05-Music-Futures"
+              "title": "Outgoing links from 2024-11-05-Musical-Futures"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-05-Music-Futures.md"
+                "file": "2024-11-05-Musical-Futures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-05-Music-Futures"
+              "title": "Outline of 2024-11-05-Musical-Futures"
             }
           }
         ]
@@ -166,7 +166,7 @@
   "lastOpenFiles": [
     "Live Physio Music Agent.jpg",
     "Pics_11_05/LiveLab.md",
-    "2024-11-05-Music-Futures.md",
+    "2024-11-05-Musical-Futures.md",
     "Pics_11_05/NeuroMusic.png",
     "Pics_11_05/NeuroMusic.png.heic",
     "2024-10-01-Why-AI-isn't-alive-(yet).md",
